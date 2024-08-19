@@ -6,7 +6,7 @@ Esse programa usa páginas de memória virtual do sistema operacional para geren
 gcc -o main main.c
 ./main
 
-# Conteúdo:
+## Conteúdo:
 Main.c - Arquivo principal que faz a manipulação de memória e leitura e escrita dos arquivos.
 BIBLIA_COMPLETA.txt - Biblia em espanhol no formato de texto
 biblia.txt - arquivo criado com o conteúdo de BIBLIA_COMPLETA.txt
